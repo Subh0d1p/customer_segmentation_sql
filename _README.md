@@ -19,11 +19,11 @@
    - CoolTShirts can re-invest in 5 campaigns. Given your findings in the project, which should they pick and why? 
    
    
-   👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/02.%20Marketing%20Click%20Through%20Rate%20Analytics.sql)
+   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Subh0d1p/customer_segmentation_sql/blob/main/Marketing%20Click%20Through%20Rate%20Analytics.sql)
 
 <br><br><br>
 
-# * World Populations II*
+# * World Populations *
 
 
 ##  Goals
@@ -38,7 +38,7 @@
    - What was the total population of each continent in 2010? 
    
    
-   👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/03.%20Population_queries_II.sql)
+   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Subh0d1p/customer_segmentation_sql/blob/main/Population_queries.sql)
 
 
 <br><br><br>
@@ -60,7 +60,7 @@
    - Let's see if there's a difference in startups sizes among different locations:
       - What is the average size of a startup in each location, with average sizes above 500? 
       
-   👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/04.Startups.sql)
+   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Subh0d1p/customer_segmentation_sql/blob/main/Startups.sql)
    
 <br><br><br>   
 
@@ -81,7 +81,7 @@
    - Users are making fraudulent transactions using a temporary email address service. These services provide a short-lived email that can be verified and then self-destructs.
    - The finance department is looking for a specific transaction. They know that the transaction occurred from an ip address starting with ‘120.’ and their full name starts with ‘John’. 
    
-   👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/06.%20RPA_FRAUD_DETECTION.sql)
+   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Subh0d1p/customer_segmentation_sql/blob/main/RPA_FRAUD_DETECTION.sql)
 
 <br><br><br>
 
@@ -106,7 +106,7 @@
    - Find the emails for all users who received both a campaign and a test. These users will have non-empty entries in the campaign and test columns. 
    
    
-   👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/07.%20RPA-Customer-Segmentation.sql)
+   *Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Subh0d1p/customer_segmentation_sql/blob/main/RPA-Customer-Segmentation.sql)
    
 <br><br><br>   
    
@@ -126,4 +126,4 @@
    
    
    
-   👈🏻**Click Here** [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/08.%20Davie's%20Burgers%20Subway%20Ad.sql)
+   **Click Here** [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Subh0d1p/customer_segmentation_sql/blob/main/Davie's%20Burgers%20Subway%20Ad.sql)
