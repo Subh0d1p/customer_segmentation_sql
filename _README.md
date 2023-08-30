@@ -2,18 +2,9 @@
 
 
 
-# *01. Churn Rates Calculation*
-
-##  Goals
-   Four months into launching Codeflix, management asks to look into subscription churn rate. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide a dataset containing subscription data for users who were acquired through two distinct channels.
-   Codeflix requires a minimum subscription length of 31 days, so user can never start and end their subscription in the same month.
-   - Calculation of the churn rates for the two segments over the three month period. Which segment has a lower churn rate?
+ 
    
-   👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository/blob/master/01.Churn%20Rate.sql)
-   
-<br><br><br>   
-   
-   # *02. Marketing Click Through Rate Analytics*
+   # * Marketing Click Through Rate Analytics*
 
 
    ##  Goals
@@ -32,7 +23,7 @@
 
 <br><br><br>
 
-# *03. World Populations II*
+# * World Populations II*
 
 
 ##  Goals
@@ -52,7 +43,7 @@
 
 <br><br><br>
 
-# *04. Trends in Startups*
+# * Trends in Startups*
 
 
 ##  Goals
@@ -73,25 +64,9 @@
    
 <br><br><br>   
 
-# *05. World Populations SQL I*
 
 
-##  Goals
-   Here is a dataset of world population by country data from recent years. I tried to answer following questions with sql query.
-   
-   - What years are covered by the dataset?
-   - What is the largest population size for Gabon in this dataset?
-   - What were the 10 lowest population countries in 2005?
-   - What are all the distinct countries with a population of over 100 million in the year 2010?
-   - How many countries in this dataset have the word “Islands” in their name?
-   - What is the difference in population between 2000 and 2010 in Indonesia? 
-   
-   
-   👈🏻*Click Here* [<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/Emon-ProCoder7/sql-Command-Repository)
-
-<br><br><br>
-
-# *06. RPA Fraud Detection*
+# * RPA Fraud Detection*
 
 
 ##  Goals
@@ -110,7 +85,7 @@
 
 <br><br><br>
 
-# *07. RPA Customer Segmentation*
+# * RPA Customer Segmentation*
 
 
 ##  Goals
@@ -135,7 +110,7 @@
    
 <br><br><br>   
    
-# *08. Davie's Burgers Subway Ad*
+# * Davie's Burgers Subway Ad*
 
 
 ## 
